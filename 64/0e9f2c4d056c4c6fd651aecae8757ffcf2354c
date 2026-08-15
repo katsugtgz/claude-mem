@@ -1,0 +1,25 @@
+src/services/worker/stale-spawn-recovery.ts
+  s_04241f6aabb415::t_5eb3402caf2520 40-42,46,49-50
+  s_04241f6aabb415::t_f9087e6d5ddd2a 18-23
+tests/shared/find-claude-executable.test.ts
+  s_04241f6aabb415::t_7e9b89b94dd70d 219-222
+  s_04241f6aabb415::t_04738778187566 370-392
+src/shared/find-claude-executable.ts
+  s_04241f6aabb415::t_2bed3107d38704 353-359
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "640e9f2c4d056c4c6fd651aecae8757ffcf2354c",
+  "prompts": {},
+  "sessions": {
+    "s_04241f6aabb415": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b9a01f49-2237-4ba7-8dcd-19bfb08caf3d",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Muhammad Naufal Mahdi <053792227@ecampus.ut.ac.id>"
+    }
+  }
+}

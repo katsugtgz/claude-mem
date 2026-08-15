@@ -1,0 +1,52 @@
+tests/services/worker/stale-spawn-recovery.test.ts
+  s_8e399b05cd2304::t_e0f5743ef3f861 24
+  s_8e399b05cd2304::t_3a89962a1d413f 1-23,25-91
+src/services/worker/stale-spawn-recovery.ts
+  s_8e399b05cd2304::t_6e085ef29bdfd6 1-63
+src/services/worker/http/routes/SessionRoutes.ts
+  s_8e399b05cd2304::t_8d62b97db4cf27 153,159
+  s_8e399b05cd2304::t_d64e2ca771cefb 238
+  s_cfb001ce2b084f::t_1dbcb7b79000b9 76-82,102-105,124
+  s_8e399b05cd2304::t_0cdf1fb2f3693c 90-101,106-123,125-128
+  s_8e399b05cd2304::t_33e876acf94f85 31-32,34-40
+src/services/worker/dependency-preflight.ts
+  s_8e399b05cd2304::t_a1b820d1ca0d36 162
+  s_8e399b05cd2304::t_b6465b7599fe49 15
+tests/shared/find-claude-executable.test.ts
+  s_8e399b05cd2304::t_720da035ba6df9 202-206,209-210
+  s_8e399b05cd2304::t_cf7d584c09dcc9 322-385
+  s_8e399b05cd2304::t_35d69428167f7d 6
+src/shared/find-claude-executable.ts
+  s_8e399b05cd2304::t_356436b2725c02 432-434
+  s_8e399b05cd2304::t_0cc5eade237033 92-121
+  s_8e399b05cd2304::t_8463da5f638dc6 395-401
+  s_8e399b05cd2304::t_54d566025a41cb 362-366
+  s_cfb001ce2b084f::t_ef56c2957485f0 91
+src/services/worker/ClaudeProvider.ts
+  s_8e399b05cd2304::t_be868b59f7250a 185
+  s_8e399b05cd2304::t_5ba55415666934 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "56e4fc69044a86ba2035a87eb9240abde3c7bb8d",
+  "prompts": {},
+  "sessions": {
+    "s_8e399b05cd2304": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_092a9ba68ffeBGi6MLeTt7fD15",
+        "model": "glm-5.2"
+      },
+      "human_author": "Muhammad Naufal Mahdi <053792227@ecampus.ut.ac.id>"
+    },
+    "s_cfb001ce2b084f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "33e7169e-059e-4a87-b7be-59aa30c408b6",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Muhammad Naufal Mahdi <053792227@ecampus.ut.ac.id>"
+    }
+  }
+}
