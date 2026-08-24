@@ -1,0 +1,234 @@
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-07-Installer-MCP-And-Remaining-Fixes.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-73
+cursor-hooks/STANDALONE-SETUP.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 15-16,152
+  s_80c0249fae7477::t_f5d62ad8b2e3c8 153
+plans/2026-08-18-chroma-windows.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-162
+src/ui/viewer/constants/promo.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-15
+tests/server/generation/providers.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 102-133
+src/cli/handlers/user-message.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 11,41-42
+src/shared/openrouter-attribution.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-74
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-07-Installation-Distribution.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-42
+tests/worker/http/routes/search-routes-welcome-hint.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 3-4,24-31,101,130-163
+  s_80c0249fae7477::t_bd7c4975e326e1 164-166
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-06-Windows-Platform-Support.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-43
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/DUPLICATE-CLOSURE-COMMENTS.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-83
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-02-MCP-Type-Coercion.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-36
+.maestro/playbooks/2026-02-25-CM-Issues-PRs/2026-02-25-Branch-Memory/BRANCH-MEMORY-04.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-42
+plugin/scripts/worker-service.cjs
+  s_80c0249fae7477::t_ec329e5b8ad02e 5-6,9,12-14,16-20,23-24,26-29,35,38,44,48,58,60,88,90-96,99,104-107,118,128,138,146-153,182,189,209-211,213-215,219-224,226-227,230,232-233,235,237,247-249,253-254,261-263,271-273,350-357,361,365-367,372,374-377,380,382,389,396,403-405,409,413,653,659,664,678,684,688,700,705,712,718,737,742,750,753,763,765,774,778,780-781,795,805,807-808,810,812-813,837-839,842,845-846,850-851,853-854,857-858,860-864,866-867,878-879,883,888-889,891,894,896,906-907,909-910,912,915,917,919-921,937,950,1546,1549,1583,1594,1678,1693,1720,1827,1928,1971,1979,1986,1993,1999,2009,2018-2019,2026-2027,2029,2033,2036,2045,2063,2069,2088,2092,2128,2143,2145,2147,2151-2152,2159,2182,2201,2203,2205-2206,2209,2212-2213,2215,2237-2244,2248,2270-2272,2279-2290,2294-2302,2365,2368,2378,2388,2390,2433,2441,2450,2457,2464,2468,2494,2506,2511,2517,2522,2531,2535-2536,2538,2541-2542,2545-2546,2548-2550
+plugin/ui/viewer-bundle.js
+  s_80c0249fae7477::t_ec329e5b8ad02e 1,3,6,8-14,16
+.maestro/playbooks/2026-02-25-CM-Issues-PRs/2026-02-25-Branch-Memory/BRANCH-MEMORY-02.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-42
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-02-Spinning-Logo-Fix.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-138
+openclaw/openclaw.plugin.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 6
+plugin/scripts/mcp-server.cjs
+  s_80c0249fae7477::t_ec329e5b8ad02e 225
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-05-Worker-Lifecycle-Simplified.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-43
+src/services/worker/http/routes/SessionRoutes.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 32,268-294
+  s_80c0249fae7477::t_d72a1b9d20d7a9 33
+src/services/worker/OpenRouterProvider.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 4,11,27-66,83-114,120-126,129-130,136-137,143-144,150-151,157-158,166,171-172,287,358,361,434
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-02-Fix-Dirname-And-Worker-Startup.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-58
+.codex-plugin/plugin.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 3
+CHANGELOG.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 7-41
+tests/worker/provider-classifiers.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 5,203-503
+src/ui/viewer-template.html
+  s_80c0249fae7477::t_ec329e5b8ad02e 486-521,1417-1425,1505-1520
+  s_80c0249fae7477::t_b8e88e2db13bdf 1521
+plans/2026-07-17-endless-mode-v1-handoff.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-108
+cursor-hooks/README.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 58-59
+.maestro/playbooks/Wizard-2026-02-22/2026-02-22-LoCoMo-Eval/LOCOMO-EVAL-02.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-54
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-08-Third-Party-Compatibility.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-39
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-09-Minor-Fixes-And-Cleanup.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-35
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-03-Windows-Platform-Hardening.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-66
+.maestro/playbooks/Wizard-2026-02-22/2026-02-22-LoCoMo-Eval/LOCOMO-EVAL-03.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-59
+.maestro/playbooks/Wizard-2026-02-22/2026-02-22-LoCoMo-Eval/LOCOMO-EVAL-05.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-124
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-10-Issue-Housekeeping.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-33
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-04-Worker-Service-Reliability.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-43
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-05-Security-Fixes.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-54
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-08-UI-UX-DX.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-53
+plans/windows-testers-post.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-84
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-03-Stop-Hook-Session-Lifecycle.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-39
+cursor-hooks/QUICKSTART.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 86-87
+plans/hackathon/04-the-memory-prize.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-81
+plugin/package.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 3
+plugin/scripts/context-generator.cjs
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-5,7-12,41,61-63,65-67,71-76
+.claude-plugin/plugin.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 3
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-01-ChromaDB-Core-Fixes.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-61
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-04-ChromaDB-Subprocess-Lifecycle.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-51
+plans/hackathon/01-what-is-claude-mem-field-guide.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-271
+.maestro/playbooks/2026-03-15-Branch-Memory/2026-03-15-Branch-Parity/BRANCH-PARITY-02-Viewer-Branch-Display.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-38
+.maestro/playbooks/2026-03-15-Branch-Memory/2026-03-15-Branch-Parity/BRANCH-PARITY-01-Chroma-Branch-Sync.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-62
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-02-Process-Resource-Stability.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-48
+.maestro/playbooks/2026-02-25-CM-Issues-PRs/2026-02-25-Branch-Memory/BRANCH-MEMORY-03.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-35
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-01-PR-Review-And-Merge.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-63
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/Working/phase-01-triage-report.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-231
+plans/hackathon/03-claude-mem-tutorial.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-146
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-03-Data-Integrity-Deduplication.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-46
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-07-Search-Chroma-Stability.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-40
+plugin/.claude-plugin/plugin.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 3
+src/server/generation/providers/shared/error-classification.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 86-92
+src/services/context/ContextBuilder.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 29-33,176-190,209,222,235-238
+src/shared/observer-health.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-301
+tests/shared/openrouter-attribution.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-89
+src/npx-cli/commands/install.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 48,2345-2353
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-06-Cross-Platform-Fixes.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-43
+plugin/.codex-plugin/plugin.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 3
+plugin/scripts/transcript-watcher.cjs
+  s_80c0249fae7477::t_ec329e5b8ad02e 16
+posthog-self-driving-report.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-133
+tests/observer-health.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-330
+.maestro/playbooks/Wizard-2026-02-22/2026-02-22-LoCoMo-Eval/LOCOMO-EVAL-06.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-126
+plans/hackathon/claude-mem-cheatsheet.html
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-518
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Working/triage-report.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-262
+plugin/skills/wowerpoint/SKILL.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 106,114,173
+.maestro/playbooks/Wizard-2026-02-22-2/Phase-02-Toast-Notification-Tests.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-30
+.maestro/playbooks/Wizard-2026-02-22/2026-02-22-LoCoMo-Eval/LOCOMO-EVAL-04.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-131
+plans/2026-07-17-endless-mode-v1.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-207
+src/services/worker/http/routes/SearchRoutes.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 13,19,56,317-319,321-324
+.maestro/playbooks/2026-02-25-CM-Issues-PRs/2026-02-25-Branch-Memory/BRANCH-MEMORY-05.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-55
+src/shared/pro-promo.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-48
+.maestro/playbooks/Wizard-2026-02-22-2/Phase-01-Toast-Notification-Service.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-44
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-06-Security-Fixes.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-59
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-01-Close-Duplicates-And-Stale-Issues.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-68
+src/services/worker/agents/ResponseProcessor.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 14,428-430
+  s_80c0249fae7477::t_f8d57e219f257f 431
+plans/2026-08-16-observer-error-path.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-328
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-09-Quality-Maintenance.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-57
+.claude-plugin/marketplace.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 12
+.maestro/playbooks/2026-02-25-CM-Issues-PRs/2026-02-25-Branch-Memory/BRANCH-MEMORY-01.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-42
+package.json
+  s_80c0249fae7477::t_ec329e5b8ad02e 3
+.maestro/playbooks/2026-03-29-Issues-Triage-3-29-2026/Phase-05-Project-Scoping-And-Session-Integrity.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-63
+plans/2026-07-16-endless-mode-message-in-a-bottle.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-379
+plans/hackathon/README.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-60
+plugin/scripts/server-service.cjs
+  s_80c0249fae7477::t_ec329e5b8ad02e 4,6-12,15,20-21,23,34,44,54-57,65,82,117,132,138,142,149,153,198,207,216,220,224,231-232,243-244,247,250,252,262,348,359,361,368,389-390,528,531,535,546-548,1118,1712,1735,2202,2742,2970,3514,3611,3729,4088,4353,4373,4413,4445,4481,4508,4521,4536,4599,4633,4696,4743,4782,4804,4828,4952,5060,5244,5478,5867,6902,6999,7333,7433,7490,7590,7605,7760,7777,8119,8158,8225,8278,8610,8719,8923,8940,8956,9298,9334,9357-9360,9364,9372,9377,9381,9636,9638,9641,9643,9645,9647-9650,9654,9660,9663,9665,9669-9670
+tests/worker/retry-policy.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-38
+src/ui/viewer/components/Header.tsx
+  s_80c0249fae7477::t_ec329e5b8ad02e 6,47-63
+src/services/worker/OpenAICompatibleProvider.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 11,114-118,129-131,312-317
+tests/worker/session-manager-project.test.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 1,17-30
+  s_80c0249fae7477::t_c8d2a67d185915 31
+plans/hackathon/02-claude-mem-cheatsheet.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-167
+src/cli/handlers/context.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 21,163
+.maestro/playbooks/2026-03-15-Branch-Memory/2026-03-15-Branch-Parity/BRANCH-PARITY-03-MCP-Output-And-Verification.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-45
+plugin/ui/viewer.html
+  s_80c0249fae7477::t_ec329e5b8ad02e 486-521,1417-1425,1505-1520
+  s_80c0249fae7477::t_7f78affca99a74 1521
+src/services/worker/provider-errors.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 11-23,28-31,37,45-56,63-72
+.maestro/playbooks/2026-03-12-CM-Issues-PRs/2026-03-12-Issues-PRs-Triage/TRIAGE-10-Feature-Backlog.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-54
+.maestro/playbooks/Wizard-2026-02-22/2026-02-22-LoCoMo-Eval/LOCOMO-EVAL-01.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-113
+src/server/generation/providers/OpenRouterObservationProvider.ts
+  s_80c0249fae7477::t_ec329e5b8ad02e 4,64-65,148
+.maestro/playbooks/2026-02-23-Issue-Triage/2026-02-23-Root-Cause-Fixes/TRIAGE-04-Hook-Lifecycle-Fixes.md
+  s_80c0249fae7477::t_ec329e5b8ad02e 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "75d442d3ae02cc178e243c89d30b32a39f57e1e7",
+  "prompts": {},
+  "sessions": {
+    "s_80c0249fae7477": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49f021eb-be33-4a3b-98b0-b6da74dafb0a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Muhammad Naufal Mahdi <196550311+katsugtgz@users.noreply.github.com>"
+    }
+  }
+}
