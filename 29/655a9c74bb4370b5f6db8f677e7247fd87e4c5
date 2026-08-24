@@ -1,0 +1,24 @@
+src/services/infrastructure/ProcessManager.ts
+  s_80c0249fae7477::t_2efb8596e723c5 369-372
+  s_80c0249fae7477::t_7ac4857266db19 428-434,438-439
+tests/infrastructure/process-manager.test.ts
+  s_80c0249fae7477::t_defc4735f0c450 712,715-722
+  s_80c0249fae7477::t_8ebdda1ff3f56e 692
+  s_80c0249fae7477::t_0875db3d822d62 723
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "29655a9c74bb4370b5f6db8f677e7247fd87e4c5",
+  "prompts": {},
+  "sessions": {
+    "s_80c0249fae7477": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "49f021eb-be33-4a3b-98b0-b6da74dafb0a",
+        "model": "glm-5.3"
+      },
+      "human_author": "Muhammad Naufal Mahdi <196550311+katsugtgz@users.noreply.github.com>"
+    }
+  }
+}
